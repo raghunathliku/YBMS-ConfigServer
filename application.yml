@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: Ybms-ConfigServer-dev
 eureka:
   instance:
     prefer-ip-address: true
